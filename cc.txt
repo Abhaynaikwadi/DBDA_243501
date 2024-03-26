@@ -1,0 +1,4 @@
+cloud computing is nothing but send data to server and preserv it.
+Its nothing but make your all task virtualy in web insted of locally.
+Data center are used to save data.
+  
